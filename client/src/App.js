@@ -7,7 +7,7 @@ function App(props) {
   return (
     // the big empty
     <div>
-
+      <p>hi</p>
     </div>
   );
 }
